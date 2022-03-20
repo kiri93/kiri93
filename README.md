@@ -1,3 +1,9 @@
+# This account
+
+This is my personal github page, mainly for experimenting around. Checkout my github account with more serious projects at https://github.com/ClusterDuck123
+
+
+# About me
 - 👋 Hi, I’m @kiri93
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning coding.
